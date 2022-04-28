@@ -18,9 +18,9 @@
 ## **Технологии** :microscope:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">&nbsp;
-    <img scr="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40">&nbsp;
+    <img scr="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40">&nbsp;
 </div>
 

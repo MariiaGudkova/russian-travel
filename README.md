@@ -25,7 +25,7 @@
 </div>
 
 ## **Cсылку на GitHub Pages** :tada:
-<a href="(https://mariiagudkova.github.io/russian-travel/index.html" target="_blank">mariiagudkova.github.io</a>
+<a href="https://mariiagudkova.github.io/russian-travel/index.html" target="_blank">mariiagudkova.github.io</a>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=ff69b4" alt=""/>
 

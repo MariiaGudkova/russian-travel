@@ -1,0 +1,10 @@
+.footer {
+    width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+    .footer {
+        display: flex;
+        justify-content: center;
+    }
+}

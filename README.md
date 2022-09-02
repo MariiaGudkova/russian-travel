@@ -15,7 +15,7 @@
 * Навыки построения БЭМ-дерева 🌵 
 * Навыки организация файловой структуры по методологии БЭМ (по схеме Nested) 📁
 
-## **Технологии** :microscope:
+## **Стек** :microscope:
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">&nbsp;
